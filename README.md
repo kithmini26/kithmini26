@@ -7,8 +7,8 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vimarshana-kithmini-ab395331b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kithmini26.github.io/my_portofolio)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kithmini26.github.io/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/dissanayakekith1)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dissanayakekithmini@gmail.com)
 
 </div>
@@ -131,7 +131,7 @@ kithmini = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vimarshana-kithmini-ab395331b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-FF5722?style=for-the-badge&logo=google-chrome)](https://kithmini26.github.io/my_portofolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-FF5722?style=for-the-badge&logo=google-chrome)](https://kithmini26.github.io/)
 [![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail)](mailto:dissanayakekithmini@gmail.com)
 
 </div>
