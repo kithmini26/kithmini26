@@ -1,139 +1,149 @@
-<div align="center">
+<!-- ========================= HERO ========================= -->
 
-# Hi, I'm Vimarshana Kithmini 👋
+<p align="center">
+  <a href="https://www.linkedin.com/in/vimarshana-kithmini-ab395331b/">
+    <img width="100%" src="./assets/hero.svg" alt="Vimarshana Kithmini, Software Engineering undergraduate focused on QA, Data Analysis and AI/ML" />
+  </a>
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Final-Year+Software+Engineering+Undergraduate;QA+%26+Test+Automation+Enthusiast;Data+Analysis+%26+AI%2FML+Explorer;Chairperson+%7C+IEEE+CS+Student+Branch+Chapter+SLTC)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://www.linkedin.com/in/vimarshana-kithmini-ab395331b/"><img src="https://img.shields.io/badge/LinkedIn-080D18?style=for-the-badge&logo=linkedin&logoColor=60A5FA" alt="LinkedIn" /></a>
+  <a href="https://kithmini-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-080D18?style=for-the-badge&logo=googlechrome&logoColor=A78BFA" alt="Portfolio" /></a>
+  <a href="https://www.hackerrank.com/profile/dissanayakekith1"><img src="https://img.shields.io/badge/HackerRank-080D18?style=for-the-badge&logo=hackerrank&logoColor=34D399" alt="HackerRank" /></a>
+  <a href="mailto:dissanayakekithmini@gmail.com"><img src="https://img.shields.io/badge/Email-080D18?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email" /></a>
+</p>
 
-<br/>
+<p align="center"><img width="100%" src="./assets/divider.svg" alt="" /></p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vimarshana-kithmini-ab395331b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kithmini-portfolio.vercel.app/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/dissanayakekith1)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dissanayakekithmini@gmail.com)
+<!-- ========================= ABOUT ========================= -->
 
-</div>
+<p align="center">
+  <img width="100%" src="./assets/about.svg" alt="About me: final-year Software Engineering undergraduate at SLTC, IEEE CS Chairperson, seeking QA, Data, BA or PM internships" />
+</p>
 
----
+<p align="center"><img width="100%" src="./assets/divider.svg" alt="" /></p>
 
-## 👩‍💻 About Me
+<!-- ========================= TOOLKIT ========================= -->
 
-```python
-kithmini = {
-    "role"      : "Final-Year BSc (Hons) Software Engineering Undergraduate @ SLTC",
-    "graduating": "February 2027",
-    "focus"     : ["Quality Assurance", "Data Analysis", "AI / ML"],
-    "ieee"      : "Chairperson, IEEE Computer Society Student Branch Chapter, SLTC (2025/2026)",
-    "looking_for": "Internship opportunities (QA / BA / DA / PM)",
-    "location"  : "Sri Lanka",
-    "email"     : "dissanayakekithmini@gmail.com"
-}
-```
+<p align="center">
+  <img width="100%" src="./assets/skills.svg" alt="Toolkit: Selenium, Playwright, Postman, Power BI, SQL, Python, Scikit-learn, PyTorch, Flutter, Node.js and more" />
+</p>
 
----
+<p align="center"><img width="100%" src="./assets/divider.svg" alt="" /></p>
 
-## 🛠️ Tech Stack
+<!-- ========================= PROJECTS ========================= -->
 
-### 🧪 Testing & QA
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Qase](https://img.shields.io/badge/Qase.io-1E88E5?style=for-the-badge&logoColor=white)
+<h2 align="center"><sub><code>// 03</code></sub><br>Featured Projects</h2>
 
-### 📊 BI & Data
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<table align="center" width="96%">
+<tr>
+<td colspan="2" valign="top">
+<h3>⚖️ Loan Approval System with Explainable AI &nbsp;<sub><code>FINAL YEAR PROJECT · ONGOING</code></sub></h3>
+<sub>Flutter · Node.js · Express · Python · Scikit-learn · SHAP · DiCE · AIF360</sub>
+<p>A loan decision-support system for consumer microloans, built around transparency and fairness in credit decisions.</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🏥 SmartCare</h3>
+<sub>Python · XGBoost · SHAP · Streamlit</sub>
+<p>Hospital disease-risk classification with SHAP explainability, a live Streamlit prototype, and a fairness gap found across age groups.</p>
+<a href="https://smartcare-ai-coursework.streamlit.app"><b>Live demo →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>🕸️ OGBN-Arxiv GNN</h3>
+<sub>PyTorch · PyTorch Geometric · Google Colab</sub>
+<p>GCN and GAT node classification on the OGBN-Arxiv citation dataset, trained on GPU with hyperparameter tuning.</p>
+<a href="https://github.com/kithmini26/CCS4354-OGBN-Arxiv-GNN"><b>Codebase →</b></a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🛒 Retail Sales Analysis</h3>
+<sub>Python · Pandas · Matplotlib · Seaborn</sub>
+<p>Analysis of about 8,400 Superstore orders covering cleaning, feature engineering, and pricing, discount and logistics recommendations.</p>
+<a href="https://github.com/kithmini26/superstore-sales-analysis"><b>Codebase →</b></a>
+</td>
+<td width="50%" valign="top">
+<h3>📚 Smart Library</h3>
+<sub>Node.js · Express · MongoDB · Postman</sub>
+<p>Responsive library management system with search, filtering and borrow/return workflows, backed by Postman-tested REST APIs.</p>
+<a href="https://github.com/kithmini26/smart-library-website"><b>Codebase →</b></a>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+<h3>🏙️ Utopia</h3>
+<sub>JavaScript · HTML · CSS · Leaflet · Geolocation</sub>
+<p>Role-based smart city platform with emergency reporting, bill and tax payments, and location-based maps.</p>
+<a href="https://github.com/kithmini26"><b>Codebase →</b></a>
+</td>
+</tr>
+</table>
 
-### 🐍 Languages & Libraries
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+<p align="center"><img width="100%" src="./assets/divider.svg" alt="" /></p>
 
-### 🌐 Web & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<!-- ============== CERTIFICATIONS & LEADERSHIP ============== -->
 
-### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white)
+<h2 align="center"><sub><code>// 04</code></sub><br>Certifications &amp; Leadership</h2>
 
----
+<table align="center" width="96%">
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 Featured Projects
+**🎓 Certifications**
 
-| Project | Description | Tech | Link |
-|---|---|---|---|
-| ⚖️ **Loan Approval System with XAI** *(FYP)* | Loan decision-support system for consumer microloans, focused on transparency and fairness in credit decisions | Flutter, Node.js, Express, Python, SHAP, DiCE, AIF360 | Ongoing |
-| 🏥 **SmartCare** | Hospital disease-risk classification with SHAP explainability and a live Streamlit prototype; found a fairness gap across age groups | Python, Scikit-learn, XGBoost, SHAP, Streamlit | [Live Demo](https://smartcare-ai-coursework.streamlit.app) |
-| 🕸️ **OGBN-Arxiv GNN** | GCN & GAT node classification on the OGBN-Arxiv citation dataset, trained on GPU in Colab | PyTorch, PyTorch Geometric, Google Colab | [GitHub](https://github.com/kithmini26/CCS4354-OGBN-Arxiv-GNN) |
-| 🛒 **Retail Sales Analysis** | Superstore sales analysis (~8,400 orders): cleaning, feature engineering, and pricing/discount/logistics recommendations | Python, Pandas, Matplotlib, Seaborn | [GitHub](https://github.com/kithmini26/superstore-sales-analysis) |
-| 📚 **Smart Library** | Responsive library management system with search, filtering, borrow/return workflows, and Postman-tested REST APIs | Node.js, Express, MongoDB | [GitHub](https://github.com/kithmini26/smart-library-website) |
-| 🏙️ **Utopia** | Role-based smart city platform with emergency reporting, bill/tax payments, and Leaflet maps | JavaScript, HTML, CSS, Leaflet | [GitHub](https://github.com/kithmini26) |
+- Introduction to Software Testing — *Simplilearn*
+- Introduction to Software Testing or Software QA — *Udemy*
+- Power BI for Beginners — *Simplilearn*
+- Power BI Data Modelling Basics — *Simplilearn*
+- Cloud Computing Fundamentals — *Simplilearn*
+- Fundamentals of Software Development — *Simplilearn*
+- Software Engineer Intern — *HackerRank*
+- SQL (Basic) — *HackerRank*
 
----
+</td>
+<td width="50%" valign="top">
 
-## 🏆 Honors & Leadership
+**👑 IEEE CS SLTC**
 
-- 🥇 **Outstanding Executive Committee Volunteer Award**: IEEE CS Student Branch Chapter, SLTC (Aug 2026)
-- 🥇 **Outstanding Project Award**: Codemania v6.0 (Aug 2026)
-- 🥇 **Organizational Unit Award for Membership Recruitment & Retention**: IEEE CS SBC, SLTC, under my chairpersonship (Aug 2026)
-- 👑 **Chairperson**: IEEE Computer Society Student Branch Chapter, SLTC (2025 | 2026)
-- 🌏 **IEEE SL SYW Congress 2025**: Sri Lanka Section (Sep 2025)
-- 🎯 **Project Co-Chairperson**: Codemania v5.0 (Feb 2025)
-- 🎯 **Project Chairperson**: GitGenius 2024 (Nov 2024)
+- **Chairperson**, Student Branch Chapter (2025/26)
+- Outstanding Executive Committee Volunteer Award (Aug 2026)
+- Outstanding Project Award, Codemania v6.0 (Aug 2026)
+- Membership Recruitment & Retention Award, under my chairpersonship (Aug 2026)
+- IEEE SL SYW Congress 2025
+- Project Co-Chairperson, Codemania v5.0
+- Project Chairperson, GitGenius 2024
 
----
+</td>
+</tr>
+</table>
 
-## 📜 Certifications
+<p align="center"><img width="100%" src="./assets/divider.svg" alt="" /></p>
 
-- 🧪 Introduction to Software Testing: Simplilearn
-- 🧪 Introduction to Software Testing or Software QA: Udemy
-- 📊 Power BI for Beginners: Simplilearn
-- 📊 Power BI Data Modelling Basics: Simplilearn
-- ☁️ Cloud Computing Fundamentals: Simplilearn
-- 💻 Fundamentals of Software Development: Simplilearn
-- 🧑‍💻 Software Engineer Intern: HackerRank
-- 🗄️ SQL (Basic): HackerRank
+<!-- ========================= ACTIVITY ========================= -->
 
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kithmini26&show_icons=true&hide_border=true&count_private=true&bg_color=080D18&title_color=38BDF8&icon_color=A78BFA&text_color=C8DEFF&border_color=1E3A6B" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kithmini26&layout=compact&hide_border=true&bg_color=080D18&title_color=38BDF8&text_color=C8DEFF&border_color=1E3A6B" alt="Top languages" />
+</p>
 
-## 📈 GitHub Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=kithmini26&hide_border=true&background=080D18&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=6B84B0&dates=6B84B0&currStreakNum=C8DEFF&sideNums=C8DEFF&stroke=1E3A6B" alt="GitHub streak" />
+</p>
 
-<div align="center">
+<p align="center"><img width="100%" src="./assets/divider.svg" alt="" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=kithmini26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kithmini26&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<!-- ========================= CONNECT ========================= -->
 
-<br/>
+<p align="center">
+  <a href="mailto:dissanayakekithmini@gmail.com">
+    <img width="100%" src="./assets/connect.svg" alt="Have a QA or data role in mind? Let's connect." />
+  </a>
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kithmini26&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vimarshana-kithmini-ab395331b)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Work-FF5722?style=for-the-badge&logo=google-chrome)](https://kithmini-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail)](mailto:dissanayakekithmini@gmail.com)
-
-</div>
-
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vimarshana-kithmini-ab395331b/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-080D18?style=for-the-badge&logo=linkedin&logoColor=60A5FA&labelColor=1E3A6B" alt="LinkedIn" /></a>
+  <a href="https://kithmini-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit_my_work-080D18?style=for-the-badge&logo=googlechrome&logoColor=A78BFA&labelColor=1E3A6B" alt="Portfolio" /></a>
+  <a href="mailto:dissanayakekithmini@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hi-080D18?style=for-the-badge&logo=gmail&logoColor=F87171&labelColor=1E3A6B" alt="Email" /></a>
+</p>
