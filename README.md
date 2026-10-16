@@ -33,7 +33,7 @@
 
 <!-- ========================= PROJECTS ========================= -->
 
-<h2 align="center"><sub><code>// 03</code></sub><br>Featured Projects</h2>
+<h2 align="center"><sub><code>// 04</code></sub><br>Featured Projects</h2>
 
 <table align="center" width="96%">
 <tr>
@@ -85,7 +85,7 @@
 
 <!-- ============== CERTIFICATIONS & LEADERSHIP ============== -->
 
-<h2 align="center"><sub><code>// 04</code></sub><br>Certifications &amp; Leadership</h2>
+<h2 align="center"><sub><code>// 05</code></sub><br>Certifications &amp; Leadership</h2>
 
 <table align="center" width="96%">
 <tr>
